@@ -1,0 +1,31 @@
+The number is 1123
+This is month 012 of the year
+I owe R2035
+What about decimals 350,15
+Test 0
+Test 1
+Test 10x
+Test 11
+Test 100
+Test 101
+Test 133
+Test 990
+Test 1000
+Test 1001
+Test 2013
+Test 10 000
+Test 11 000
+Test 10 010
+Test 10 011
+Test 20 020
+Test 10 110
+Test 210 000
+Test 211 000
+Test 235 000
+Test 200 010
+Test 200 011
+Test 211 011
+Test 211 311
+Test 900 230
+Test 999 999
+Test 1 000 000
